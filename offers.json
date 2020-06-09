@@ -1,0 +1,100 @@
+[
+	{
+		"title": "Junior Java Developer",
+		"city": "Warszawa",
+		"main_technology": "java",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "PHP Developer",
+		"city": "Kraków",
+		"main_technology": "php",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "JavaScript Developer",
+		"city": "Kraków",
+		"main_technology": "js",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Python Developer",
+		"city": "Poznań",
+		"main_technology": "python",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": ".NET Developer",
+		"city": "Lublin",
+		"main_technology": "net",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Ruby Engineer",
+		"city": "Kraków",
+		"main_technology": "ruby",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Ruby on Rails Developer",
+		"city": "Kraków",
+		"main_technology": "PHP",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Senior Java Developer",
+		"city": "Warszawa",
+		"main_technology": "java",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Junior PHP Developer",
+		"city": "Kraków",
+		"main_technology": "php",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Senior JavaScript Developer",
+		"city": "Kraków",
+		"main_technology": "js",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Junior Python Developer",
+		"city": "Poznań",
+		"main_technology": "python",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Lead .NET Developer",
+		"city": "Lublin",
+		"main_technology": "net",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Internship Ruby Engineer",
+		"city": "Kraków",
+		"main_technology": "ruby",
+		"salary_min": 12000,
+		"salary_max": 15000
+	},
+	{
+		"title": "Junior Ruby on Rails Developer",
+		"city": "Kraków",
+		"main_technology": "PHP",
+		"salary_min": 12000,
+		"salary_max": 15000
+	}
+]
